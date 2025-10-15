@@ -1,0 +1,13 @@
+document.addEventListener("DOMContentLoaded", function(){ window.addEventListener( 'load', function() {
+	UAGBCounter.init( '.uagb-block-472e70c6', {"layout":"number","heading":"Pet owners view their pet as family","numberPrefix":"","numberSuffix":"%","startNumber":0,"endNumber":97,"totalNumber":100,"decimalPlaces":0,"animationDuration":1500,"thousandSeparator":",","circleSize":230,"circleStokeSize":8,"isFrontend":true} );
+});
+window.addEventListener( 'load', function() {
+	UAGBCounter.init( '.uagb-block-936d9ccc', {"layout":"number","heading":"Essential dog expense per year","numberPrefix":"$","numberSuffix":"","startNumber":0,"endNumber":1533,"totalNumber":1533,"decimalPlaces":0,"animationDuration":1500,"thousandSeparator":",","circleSize":230,"circleStokeSize":8,"isFrontend":true} );
+});
+window.addEventListener( 'load', function() {
+	UAGBCounter.init( '.uagb-block-44cc9534', {"layout":"number","heading":"Pet industry revenue last year","numberPrefix":"$","numberSuffix":"B","startNumber":0,"endNumber":136,"totalNumber":2000,"decimalPlaces":0,"animationDuration":1500,"thousandSeparator":",","circleSize":230,"circleStokeSize":8,"isFrontend":true} );
+});
+window.addEventListener( 'load', function() {
+	UAGBCounter.init( '.uagb-block-445a4f99', {"layout":"number","heading":"U.S. households own a pet","numberPrefix":"","numberSuffix":"M","startNumber":0,"endNumber":86.900000000000006,"totalNumber":2999986.8999999999,"decimalPlaces":1,"animationDuration":1500,"thousandSeparator":",","circleSize":230,"circleStokeSize":8,"isFrontend":true} );
+});
+ });
